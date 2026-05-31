@@ -1,3 +1,5 @@
+> [Privacy Policy / 隐私政策](./) · [Terms of Service / 用户协议](./terms.html)
+
 # NiceGo Privacy Policy / NiceGo 隐私政策
 
 _Last updated / 最近更新: 2026-05-31_
